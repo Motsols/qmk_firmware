@@ -1,3 +1,28 @@
+# My own notes
+[Youtube video that helped](https://www.youtube.com/watch?v=fR-w97o7dgg)  
+[QMK setup guide](https://docs.qmk.fm/#/newbs_getting_started)  
+
+! The keyboard is of type `redox/rev1/base`
+
+! Compile a firmware with your new keymap by typing: `qmk compile -kb redox/rev1/base -km Motsols`.
+
+What Joakim sent me:
+> För att bygga layout kan man använda qmk’s grafiska verktyg: https://config.qmk.fm/#/redox/rev1/base/LAYOUT  
+och tror att den mesta av dokumentationen som behövs finns: https://github.com/qmk/qmk_firmware  
+
+>I bygg-guiden jag följde när jag satte ihop hela så har han något exempel på firmware också men tror inte jag testade den: https://github.com/mattdibi/redox-keyboard  
+
+>jag körde primärt på det grafiska verktyget om jag minns rätt. Sen om det va någon setting som inte gick att få till så har jag för mig att jag skrev in den i C filer själv  
+
+>Sen finns det hur mycket info som helst på reddit. Det är där jag grottade ner mig först för att ta reda på vad man skulle bygga osv osv :slightly_smiling_face:  
+
+>Men fråga gärna om de är några konstigheter :slightly_smiling_face:  
+https://qmk.fm/  
+
+
+
+
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
